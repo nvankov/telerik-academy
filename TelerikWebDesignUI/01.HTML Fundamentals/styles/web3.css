@@ -1,0 +1,13 @@
+body {
+    background-color: #8db5d2;
+}
+
+ul {
+    list-style: none;
+    padding:  0px;
+}
+
+.HeaderLinks li{
+    display: inline; 
+    padding-right: 50px;
+}
