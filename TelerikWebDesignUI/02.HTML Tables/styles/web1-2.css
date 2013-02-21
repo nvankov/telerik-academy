@@ -1,0 +1,9 @@
+table {
+    border-collapse: collapse;
+    border: 3px ridge lightgray;
+    text-align: center;
+}
+
+table td {
+    border: 3px ridge lightgray;
+}

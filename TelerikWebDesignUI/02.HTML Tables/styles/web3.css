@@ -1,0 +1,17 @@
+table {
+    background-color: #C7E2F1;
+    border: 1px solid #38A4DF;
+    border-radius: 3px;
+    padding: 2px;
+}
+
+input[type="button"] {
+    width:  100%;
+    min-height: 30px;
+    background-color: #eae7e7;
+    border-radius: 3px;
+}
+
+input[type="text"] {
+    text-align: right;
+}
