@@ -1,0 +1,99 @@
+html {
+    font: 75% Arial,Helvetica,sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    border-radius: 5px;
+}
+
+th {
+    background-color: #e4e6e8;
+    border: 1px solid #a4abb2;
+    background-image: url(../images/header-background.png);
+    height: 23px;
+    font-weight: normal;
+    text-align: left;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+thead td {
+    background-color: #dfe3e8;
+    border: 1px solid #a4abb2;
+    background-image: url(../images/header-background2.png);
+}
+
+tbody td {
+    border: 1px solid #d0d7e5;
+}
+
+input[type="button"] {
+    background-image: url(../images/footer-button-background.png);
+    border: none;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+
+input[type="button"]:hover{
+    background-image: url(../images/footer-button-background.png);
+    border: 1px solid #a4abb2;
+    border-radius: 5px;
+    padding-left: 6px;
+    padding-right: 6px;
+    cursor:pointer;
+}
+
+input[type="image"] {
+    border-radius: 3px;
+    border: 1px solid #9aa0a6;
+    margin-bottom: -5px;
+    padding: 1px;
+}
+
+tfoot {
+    background-image: url(../images/footer-background.png);
+    border: 1px solid #a4abb2;
+}
+
+#TableTop {
+    background-color: #e7e9eb;
+    height: 20px;
+}
+
+#ProductID {
+    width: 35px;
+}
+
+#ProductName {
+    margin-right: 100px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#UnitPrice {
+    width: 75px;
+}
+
+#UnitPriceButton {
+    margin-right: 50px;
+}
+
+#Quantity {
+    width: 90px;
+    margin-right: 50px;
+}
+
+#InStock {
+    width: 75px;
+}
+
+#InStockButton {
+    margin-right: 50px;
+}
+
+#ItemStats {
+    float: right;
+    margin-top: 4px;
+}

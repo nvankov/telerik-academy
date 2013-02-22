@@ -1,0 +1,75 @@
+table {
+    width: 450px;
+    border: 1px solid #b2b2b2;
+}
+
+tfoot {
+    background-color: #06b3bf;
+}
+
+th {
+    width: 50px;
+    text-align: right;
+}
+
+td {
+    width: 160px;
+}
+
+input {
+    width: 98%;
+}
+
+input[type="radio"] {
+    width: auto;
+}
+
+input[type="submit"] {
+    width: auto;
+    margin: 0 auto;
+}
+
+input[type="reset"] {
+    width: auto;
+}
+
+textarea {
+    width: 98%;
+    height: 50px;
+}
+
+#City {
+    width: 182px;
+}
+#State {
+    width: 55px;
+}
+
+#Telephone {
+    width: 25px;
+}
+
+#TelephoneSecond {
+    width: 50px;
+}
+
+#TelephoneThird {
+    width: 100px;
+}
+
+#Month {
+    width: 25px;
+}
+
+#Day {
+    width: 35px;
+}
+
+#Year {
+    width: 55px;
+}
+
+#FormButtons {
+    width: 50%;
+    margin: auto;
+}
