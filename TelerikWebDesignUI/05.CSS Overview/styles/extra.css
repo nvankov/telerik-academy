@@ -1,0 +1,173 @@
+﻿body {
+    background-color: #efefef;
+    color: #a9a9a9;
+    font-family: sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+header nav {
+    margin-right: auto;
+    margin-left: auto;
+    width: 464px;
+}
+
+    header nav ul li {
+        display: inline;
+    }
+
+aside {
+    float: left;
+    width: 175px;
+}
+
+    aside ul {
+        padding-left: 20px;
+    }
+
+        aside ul li {
+            padding-top: 4px;
+            padding-bottom: 4px;
+            height: 23px;
+            border-bottom: 1px solid #d6d6d6;
+        }
+
+    aside a {
+        display: block;
+        padding-top: 3px;
+        padding-left: 25px;
+        height: 100%;
+        background-position: -2px -2px;
+        background-repeat: no-repeat;
+    }
+
+a, a:visited {
+    color: #434446;
+    text-decoration: none;
+    font-size: 10pt;
+}
+
+form h1 {
+    margin-top: 20px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    font-size: 12pt;
+}
+
+form div:last-of-type {
+    padding-top: 5px;
+}
+
+.BigNav:after {
+    padding-right: 10px;
+    padding-left: 10px;
+    content: url(../images/extra/LineBreak.png);
+}
+
+.Notifications {
+    padding: 2px 4px 2px 4px;
+    background-color: #68c1df;
+    color: #ffffff;
+    font-size: 8pt;
+}
+
+#LoginSection {
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 20px;
+    width: 300px;
+}
+
+    #LoginSection .LoginFields {
+        margin-bottom: 5px;
+        padding-left: 4px;
+        width: 260px;
+        height: 22px;
+        border-top: 2px solid #c4c4c4;
+        border-right: 1px solid #c4c4c4;
+        border-left: 1px solid #c4c4c4;
+        border-radius: 5px;
+    }
+
+    #LoginSection div a {
+        color: #68c1df;
+        text-decoration: underline;
+    }
+
+    #LoginSection input[type="button"] {
+        width: 140px;
+        height: 32px;
+        border: none;
+        border-radius: 5px;
+        background-image: url(../images/extra/ButtonLogin.png);
+        background-position: -5px -4px;
+        color: #ffffff;
+    }
+
+        #LoginSection input[type="button"]:hover {
+            cursor: pointer;
+        }
+
+/*Navigation menu icons*/
+
+#Dashboard {
+    background-image: url(../images/extra/icons/dasboard-small.png);
+}
+
+#Tables {
+    background-image: url(../images/extra/icons/tables.png);
+}
+
+#Forms {
+    background-image: url(../images/extra/icons/forms.png);
+}
+
+#Widgets {
+    background-image: url(../images/extra/icons/widgets.png);
+}
+
+#Slidres {
+    background-image: url(../images/extra/icons/sliders.png);
+}
+
+#Tabs {
+    background-image: url(../images/extra/icons/tabs.png);
+}
+
+#Messages {
+    background-image: url(../images/extra/icons/messages.png);
+}
+
+#Icons {
+    background-image: url(../images/extra/icons/icons-buttons.png);
+}
+
+#Gallery {
+    background-image: url(../images/extra/icons/gallery.png);
+}
+
+#Charts {
+    background-image: url(../images/extra/icons/charts.png);
+}
+
+#Filemanager {
+    background-image: url(../images/extra/icons/file-manager.png);
+}
+
+#Contacts {
+    background-image: url(../images/extra/icons/contacts.png);
+}
+
+#Grids {
+    background-image: url(../images/extra/icons/grids.png);
+}
+
+#Typography {
+    background-image: url(../images/extra/icons/typography.png);
+}
+
+#Errors {
+    background-image: url(../images/extra/icons/errors.png);
+}

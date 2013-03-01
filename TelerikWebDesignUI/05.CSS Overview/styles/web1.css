@@ -1,0 +1,49 @@
+﻿body {
+    background-color: #595959;
+    font: 12px/16px arial, sans-serif;
+    color: #7a8c9a;
+}
+
+h1 {
+    font: 22px/30px arial, sans-serif;
+    color: #a4b0b1;
+}
+
+th {
+    color: #ffffff;
+    font-weight: normal;
+    font-style: italic;
+    text-align: left;
+    vertical-align: baseline;
+    margin-right: 5px;
+}
+
+
+td {
+    padding: 2px;
+    padding-left: 15px;
+}
+
+a, a:visited {
+    color: #e3e9ab;
+    text-decoration: none;
+}
+
+#Online:before {
+    content: url(../images/green-circle.png);
+}
+
+#NoActiveSupport {
+    color: #d9110d;
+    font-weight: bold;
+}
+
+#TicketSection {
+    background-color: #595959;
+    width: 496px;
+}
+
+#NotAnswered {
+    font-weight:bold;
+    color: #ff6600;
+}
