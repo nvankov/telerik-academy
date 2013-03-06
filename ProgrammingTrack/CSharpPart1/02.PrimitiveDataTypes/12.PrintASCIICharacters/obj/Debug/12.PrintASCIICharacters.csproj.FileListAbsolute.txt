@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\12.PrintASCIICharacters\bin\Debug\12.PrintASCIICharacters.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\12.PrintASCIICharacters\bin\Debug\12.PrintASCIICharacters.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\12.PrintASCIICharacters\bin\Debug\12.PrintASCIICharacters.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\12.PrintASCIICharacters\obj\Debug\12.PrintASCIICharacters.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\12.PrintASCIICharacters\obj\Debug\12.PrintASCIICharacters.pdb

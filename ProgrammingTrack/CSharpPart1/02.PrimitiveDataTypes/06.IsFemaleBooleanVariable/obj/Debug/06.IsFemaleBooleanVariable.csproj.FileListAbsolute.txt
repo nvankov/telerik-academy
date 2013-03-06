@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\06.IsFemaleBooleanVariable\bin\Debug\06.IsFemaleBooleanVariable.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\06.IsFemaleBooleanVariable\bin\Debug\06.IsFemaleBooleanVariable.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\06.IsFemaleBooleanVariable\bin\Debug\06.IsFemaleBooleanVariable.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\06.IsFemaleBooleanVariable\obj\Debug\06.IsFemaleBooleanVariable.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\06.IsFemaleBooleanVariable\obj\Debug\06.IsFemaleBooleanVariable.pdb

@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\03.SafelyCompareFloatVariables\bin\Debug\03.SafelyCompareFloatVariables.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\03.SafelyCompareFloatVariables\bin\Debug\03.SafelyCompareFloatVariables.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\03.SafelyCompareFloatVariables\bin\Debug\03.SafelyCompareFloatVariables.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\03.SafelyCompareFloatVariables\obj\Debug\03.SafelyCompareFloatVariables.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\03.SafelyCompareFloatVariables\obj\Debug\03.SafelyCompareFloatVariables.pdb

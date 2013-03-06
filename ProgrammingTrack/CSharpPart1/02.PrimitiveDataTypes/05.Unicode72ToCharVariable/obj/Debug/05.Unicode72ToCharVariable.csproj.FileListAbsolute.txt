@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\05.Unicode72ToCharVariable\bin\Debug\05.Unicode72ToCharVariable.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\05.Unicode72ToCharVariable\bin\Debug\05.Unicode72ToCharVariable.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\05.Unicode72ToCharVariable\bin\Debug\05.Unicode72ToCharVariable.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\05.Unicode72ToCharVariable\obj\Debug\05.Unicode72ToCharVariable.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\05.Unicode72ToCharVariable\obj\Debug\05.Unicode72ToCharVariable.pdb

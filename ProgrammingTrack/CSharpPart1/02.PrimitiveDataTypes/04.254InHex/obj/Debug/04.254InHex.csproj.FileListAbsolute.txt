@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\04.254InHex\bin\Debug\04.254InHex.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\04.254InHex\bin\Debug\04.254InHex.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\04.254InHex\bin\Debug\04.254InHex.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\04.254InHex\obj\Debug\04.254InHex.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\04.254InHex\obj\Debug\04.254InHex.pdb

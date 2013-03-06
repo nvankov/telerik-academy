@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\14.BankAccount\bin\Debug\14.BankAccount.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\14.BankAccount\bin\Debug\14.BankAccount.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\14.BankAccount\bin\Debug\14.BankAccount.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\14.BankAccount\obj\Debug\14.BankAccount.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\14.BankAccount\obj\Debug\14.BankAccount.pdb

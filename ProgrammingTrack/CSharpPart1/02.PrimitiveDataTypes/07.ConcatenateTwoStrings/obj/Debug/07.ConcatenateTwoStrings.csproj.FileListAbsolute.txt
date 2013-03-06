@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\07.ConcatenateTwoStrings\bin\Debug\07.ConcatenateTwoStrings.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\07.ConcatenateTwoStrings\bin\Debug\07.ConcatenateTwoStrings.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\07.ConcatenateTwoStrings\bin\Debug\07.ConcatenateTwoStrings.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\07.ConcatenateTwoStrings\obj\Debug\07.ConcatenateTwoStrings.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\07.ConcatenateTwoStrings\obj\Debug\07.ConcatenateTwoStrings.pdb
