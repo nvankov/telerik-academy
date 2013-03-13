@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.IntroductionToProgramming\06.PrintFirstLastName\bin\Debug\06.PrintFirstLastName.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.IntroductionToProgramming\06.PrintFirstLastName\bin\Debug\06.PrintFirstLastName.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.IntroductionToProgramming\06.PrintFirstLastName\bin\Debug\06.PrintFirstLastName.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.IntroductionToProgramming\06.PrintFirstLastName\obj\Debug\06.PrintFirstLastName.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.IntroductionToProgramming\06.PrintFirstLastName\obj\Debug\06.PrintFirstLastName.pdb

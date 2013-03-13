@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\09.PointInCircleAndOutOfRectangle\bin\Debug\09.PointInCircleAndOutOfRectangle.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\09.PointInCircleAndOutOfRectangle\bin\Debug\09.PointInCircleAndOutOfRectangle.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\09.PointInCircleAndOutOfRectangle\bin\Debug\09.PointInCircleAndOutOfRectangle.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\09.PointInCircleAndOutOfRectangle\obj\Debug\09.PointInCircleAndOutOfRectangle.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\09.PointInCircleAndOutOfRectangle\obj\Debug\09.PointInCircleAndOutOfRectangle.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\09.PointInCircleAndOutOfRectangle\obj\Debug\09.PointInCircleAndOutOfRectangle.pdb

@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\10.BitAtPositionP\bin\Debug\10.BitAtPositionP.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\10.BitAtPositionP\bin\Debug\10.BitAtPositionP.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\10.BitAtPositionP\bin\Debug\10.BitAtPositionP.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\10.BitAtPositionP\obj\Debug\10.BitAtPositionP.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\10.BitAtPositionP\obj\Debug\10.BitAtPositionP.pdb

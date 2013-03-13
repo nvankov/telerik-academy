@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\01.CheckIfOddOrEven\bin\Debug\01.CheckIfOddOrEven.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\01.CheckIfOddOrEven\bin\Debug\01.CheckIfOddOrEven.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\01.CheckIfOddOrEven\bin\Debug\01.CheckIfOddOrEven.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\01.CheckIfOddOrEven\obj\Debug\01.CheckIfOddOrEven.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\01.CheckIfOddOrEven\obj\Debug\01.CheckIfOddOrEven.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\01.CheckIfOddOrEven\obj\Debug\01.CheckIfOddOrEven.pdb

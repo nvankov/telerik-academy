@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\13.ExchangeBits\bin\Debug\13.ExchangeBits.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\13.ExchangeBits\bin\Debug\13.ExchangeBits.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\13.ExchangeBits\bin\Debug\13.ExchangeBits.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\13.ExchangeBits\obj\Debug\13.ExchangeBits.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\13.ExchangeBits\obj\Debug\13.ExchangeBits.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\13.ExchangeBits\obj\Debug\13.ExchangeBits.csprojResolveAssemblyReference.cache

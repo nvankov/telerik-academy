@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\03.CalculateRectangleArea\bin\Debug\03.CalculateRectangleArea.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\03.CalculateRectangleArea\bin\Debug\03.CalculateRectangleArea.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\03.CalculateRectangleArea\bin\Debug\03.CalculateRectangleArea.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\03.CalculateRectangleArea\obj\Debug\03.CalculateRectangleArea.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\03.CalculateRectangleArea\obj\Debug\03.CalculateRectangleArea.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\03.CalculateRectangleArea\obj\Debug\03.CalculateRectangleArea.csprojResolveAssemblyReference.cache
