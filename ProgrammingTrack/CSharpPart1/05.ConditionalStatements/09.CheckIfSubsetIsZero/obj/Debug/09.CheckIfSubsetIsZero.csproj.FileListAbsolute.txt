@@ -1,0 +1,6 @@
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\09.CheckIfSubsetIsZero\bin\Debug\09.CheckIfSubsetIsZero.exe.config
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\09.CheckIfSubsetIsZero\bin\Debug\09.CheckIfSubsetIsZero.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\09.CheckIfSubsetIsZero\bin\Debug\09.CheckIfSubsetIsZero.pdb
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\09.CheckIfSubsetIsZero\obj\Debug\09.CheckIfSubsetIsZero.csprojResolveAssemblyReference.cache
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\09.CheckIfSubsetIsZero\obj\Debug\09.CheckIfSubsetIsZero.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\09.CheckIfSubsetIsZero\obj\Debug\09.CheckIfSubsetIsZero.pdb

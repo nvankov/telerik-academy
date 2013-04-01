@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\06.Loops\03.MinMaxFormNNumbers\bin\Debug\03.MinMaxFormNNumbers.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\06.Loops\03.MinMaxFormNNumbers\bin\Debug\03.MinMaxFormNNumbers.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\06.Loops\03.MinMaxFormNNumbers\bin\Debug\03.MinMaxFormNNumbers.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\06.Loops\03.MinMaxFormNNumbers\obj\Debug\03.MinMaxFormNNumbers.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\06.Loops\03.MinMaxFormNNumbers\obj\Debug\03.MinMaxFormNNumbers.pdb

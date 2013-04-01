@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\06.Loops\01.PrintNumbers1ToN\bin\Debug\01.PrintNumbers1ToN.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\06.Loops\01.PrintNumbers1ToN\bin\Debug\01.PrintNumbers1ToN.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\06.Loops\01.PrintNumbers1ToN\bin\Debug\01.PrintNumbers1ToN.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\06.Loops\01.PrintNumbers1ToN\obj\Debug\01.PrintNumbers1ToN.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\06.Loops\01.PrintNumbers1ToN\obj\Debug\01.PrintNumbers1ToN.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\06.Loops\01.PrintNumbers1ToN\obj\Debug\01.PrintNumbers1ToN.pdb

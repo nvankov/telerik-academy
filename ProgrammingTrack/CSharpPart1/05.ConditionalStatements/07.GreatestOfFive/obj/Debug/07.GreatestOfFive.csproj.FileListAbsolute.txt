@@ -1,0 +1,5 @@
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\07.GreatestOfFive\bin\Debug\07.GreatestOfFive.exe.config
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\07.GreatestOfFive\bin\Debug\07.GreatestOfFive.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\07.GreatestOfFive\bin\Debug\07.GreatestOfFive.pdb
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\07.GreatestOfFive\obj\Debug\07.GreatestOfFive.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\07.GreatestOfFive\obj\Debug\07.GreatestOfFive.pdb

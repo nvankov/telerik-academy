@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\04.ConsoleInputOutput\04.NumbersPBetweenTwoIntegers\bin\Debug\04.NumbersPBetweenTwoIntegers.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\04.ConsoleInputOutput\04.NumbersPBetweenTwoIntegers\bin\Debug\04.NumbersPBetweenTwoIntegers.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\04.ConsoleInputOutput\04.NumbersPBetweenTwoIntegers\bin\Debug\04.NumbersPBetweenTwoIntegers.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\04.ConsoleInputOutput\04.NumbersPBetweenTwoIntegers\obj\Debug\04.NumbersPBetweenTwoIntegers.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\04.ConsoleInputOutput\04.NumbersPBetweenTwoIntegers\obj\Debug\04.NumbersPBetweenTwoIntegers.pdb

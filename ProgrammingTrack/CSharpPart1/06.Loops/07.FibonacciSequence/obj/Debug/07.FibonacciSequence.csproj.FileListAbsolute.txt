@@ -1,0 +1,5 @@
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\06.Loops\07.FibonacciSequence\bin\Debug\07.FibonacciSequence.exe.config
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\06.Loops\07.FibonacciSequence\bin\Debug\07.FibonacciSequence.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\06.Loops\07.FibonacciSequence\bin\Debug\07.FibonacciSequence.pdb
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\06.Loops\07.FibonacciSequence\obj\Debug\07.FibonacciSequence.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\06.Loops\07.FibonacciSequence\obj\Debug\07.FibonacciSequence.pdb

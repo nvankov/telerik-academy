@@ -1,0 +1,6 @@
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\06.Loops\08.GCD\bin\Debug\08.GCD.exe.config
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\06.Loops\08.GCD\bin\Debug\08.GCD.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\06.Loops\08.GCD\bin\Debug\08.GCD.pdb
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\06.Loops\08.GCD\obj\Debug\08.GCD.csprojResolveAssemblyReference.cache
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\06.Loops\08.GCD\obj\Debug\08.GCD.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\06.Loops\08.GCD\obj\Debug\08.GCD.pdb

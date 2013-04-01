@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\01.ExchangeValuesIfFirstGreater\bin\Debug\01.ExchangeValuesIfFirstGreater.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\01.ExchangeValuesIfFirstGreater\bin\Debug\01.ExchangeValuesIfFirstGreater.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\01.ExchangeValuesIfFirstGreater\bin\Debug\01.ExchangeValuesIfFirstGreater.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\01.ExchangeValuesIfFirstGreater\obj\Debug\01.ExchangeValuesIfFirstGreater.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\01.ExchangeValuesIfFirstGreater\obj\Debug\01.ExchangeValuesIfFirstGreater.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\01.ExchangeValuesIfFirstGreater\obj\Debug\01.ExchangeValuesIfFirstGreater.pdb

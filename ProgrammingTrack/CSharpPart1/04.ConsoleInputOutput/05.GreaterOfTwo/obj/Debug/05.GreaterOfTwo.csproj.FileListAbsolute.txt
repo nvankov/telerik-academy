@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\04.ConsoleInputOutput\05.GreaterOfTwo\bin\Debug\05.GreaterOfTwo.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\04.ConsoleInputOutput\05.GreaterOfTwo\bin\Debug\05.GreaterOfTwo.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\04.ConsoleInputOutput\05.GreaterOfTwo\bin\Debug\05.GreaterOfTwo.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\04.ConsoleInputOutput\05.GreaterOfTwo\obj\Debug\05.GreaterOfTwo.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\04.ConsoleInputOutput\05.GreaterOfTwo\obj\Debug\05.GreaterOfTwo.pdb

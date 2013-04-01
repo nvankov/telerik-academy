@@ -1,0 +1,6 @@
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\03.BiggestOfThreeIntegers\bin\Debug\03.BiggestOfThreeIntegers.exe.config
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\03.BiggestOfThreeIntegers\bin\Debug\03.BiggestOfThreeIntegers.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\03.BiggestOfThreeIntegers\bin\Debug\03.BiggestOfThreeIntegers.pdb
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\03.BiggestOfThreeIntegers\obj\Debug\03.BiggestOfThreeIntegers.csprojResolveAssemblyReference.cache
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\03.BiggestOfThreeIntegers\obj\Debug\03.BiggestOfThreeIntegers.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\03.BiggestOfThreeIntegers\obj\Debug\03.BiggestOfThreeIntegers.pdb

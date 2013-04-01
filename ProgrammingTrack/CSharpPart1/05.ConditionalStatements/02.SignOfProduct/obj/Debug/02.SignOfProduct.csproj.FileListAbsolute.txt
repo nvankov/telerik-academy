@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\02.SignOfProduct\bin\Debug\02.SignOfProduct.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\02.SignOfProduct\bin\Debug\02.SignOfProduct.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\02.SignOfProduct\bin\Debug\02.SignOfProduct.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\02.SignOfProduct\obj\Debug\02.SignOfProduct.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\02.SignOfProduct\obj\Debug\02.SignOfProduct.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\02.SignOfProduct\obj\Debug\02.SignOfProduct.pdb

@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\04.ConsoleInputOutput\07.CalculateSumOfNNumbers\bin\Debug\07.CalculateSumOfNNumbers.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\04.ConsoleInputOutput\07.CalculateSumOfNNumbers\bin\Debug\07.CalculateSumOfNNumbers.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\04.ConsoleInputOutput\07.CalculateSumOfNNumbers\bin\Debug\07.CalculateSumOfNNumbers.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\04.ConsoleInputOutput\07.CalculateSumOfNNumbers\obj\Debug\07.CalculateSumOfNNumbers.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\04.ConsoleInputOutput\07.CalculateSumOfNNumbers\obj\Debug\07.CalculateSumOfNNumbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\04.Sort3RealValuesDesc\bin\Debug\04.Sort3RealValuesDesc.exe.config
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\04.Sort3RealValuesDesc\bin\Debug\04.Sort3RealValuesDesc.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\04.Sort3RealValuesDesc\bin\Debug\04.Sort3RealValuesDesc.pdb
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\04.Sort3RealValuesDesc\obj\Debug\04.Sort3RealValuesDesc.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\05.ConditionalStatements\04.Sort3RealValuesDesc\obj\Debug\04.Sort3RealValuesDesc.pdb
