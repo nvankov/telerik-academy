@@ -1,0 +1,6 @@
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\01.Arrays\08.MaxSumSequence\bin\Debug\08.MaxSumSequence.exe.config
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\01.Arrays\08.MaxSumSequence\bin\Debug\08.MaxSumSequence.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\01.Arrays\08.MaxSumSequence\bin\Debug\08.MaxSumSequence.pdb
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\01.Arrays\08.MaxSumSequence\obj\Debug\08.MaxSumSequence.csprojResolveAssemblyReference.cache
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\01.Arrays\08.MaxSumSequence\obj\Debug\08.MaxSumSequence.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\01.Arrays\08.MaxSumSequence\obj\Debug\08.MaxSumSequence.pdb

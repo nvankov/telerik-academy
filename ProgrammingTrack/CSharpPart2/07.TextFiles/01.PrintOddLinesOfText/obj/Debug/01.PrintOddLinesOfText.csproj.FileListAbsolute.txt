@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\01.PrintOddLinesOfText\bin\Debug\01.PrintOddLinesOfText.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\01.PrintOddLinesOfText\bin\Debug\01.PrintOddLinesOfText.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\01.PrintOddLinesOfText\bin\Debug\01.PrintOddLinesOfText.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\01.PrintOddLinesOfText\obj\Debug\01.PrintOddLinesOfText.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\01.PrintOddLinesOfText\obj\Debug\01.PrintOddLinesOfText.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\01.PrintOddLinesOfText\obj\Debug\01.PrintOddLinesOfText.pdb

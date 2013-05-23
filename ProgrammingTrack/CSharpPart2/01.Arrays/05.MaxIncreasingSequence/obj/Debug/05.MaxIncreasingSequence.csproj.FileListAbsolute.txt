@@ -1,0 +1,6 @@
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\01.Arrays\05.MaxIncreasingSequence\bin\Debug\05.MaxIncreasingSequence.exe.config
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\01.Arrays\05.MaxIncreasingSequence\bin\Debug\05.MaxIncreasingSequence.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\01.Arrays\05.MaxIncreasingSequence\bin\Debug\05.MaxIncreasingSequence.pdb
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\01.Arrays\05.MaxIncreasingSequence\obj\Debug\05.MaxIncreasingSequence.csprojResolveAssemblyReference.cache
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\01.Arrays\05.MaxIncreasingSequence\obj\Debug\05.MaxIncreasingSequence.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\01.Arrays\05.MaxIncreasingSequence\obj\Debug\05.MaxIncreasingSequence.pdb

@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\08.StringsAndTextProcessing\05.ToUppercase\bin\Debug\05.ToUppercase.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\08.StringsAndTextProcessing\05.ToUppercase\bin\Debug\05.ToUppercase.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\08.StringsAndTextProcessing\05.ToUppercase\bin\Debug\05.ToUppercase.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\08.StringsAndTextProcessing\05.ToUppercase\obj\Debug\05.ToUppercase.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\08.StringsAndTextProcessing\05.ToUppercase\obj\Debug\05.ToUppercase.pdb

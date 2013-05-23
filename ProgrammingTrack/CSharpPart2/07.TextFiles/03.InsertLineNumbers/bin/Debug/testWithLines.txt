@@ -1,0 +1,46 @@
+Line 1: using System;
+Line 2: using System.Collections.Generic;
+Line 3: using System.IO;
+Line 4: using System.Linq;
+Line 5: using System.Text;
+Line 6: using System.Threading.Tasks;
+Line 7: 
+Line 8: namespace _03.InsertLineNumbers
+Line 9: {
+Line 10:     class InsertLineNumbers
+Line 11:     {
+Line 12:         static void Main(string[] args)
+Line 13:         {
+Line 14:             try
+Line 15:             {
+Line 16:                 StreamReader reader = new StreamReader("test.txt");
+Line 17:                 StreamWriter writer = new StreamWriter("testWithLines.txt");
+Line 18: 
+Line 19:                 string line = reader.ReadLine();
+Line 20:                 int lineCount = 1;
+Line 21: 
+Line 22:                 while (line != null)
+Line 23:                 {
+Line 24:                     writer.WriteLine("Line " + lineCount + ": " + line);
+Line 25:                     lineCount++;
+Line 26:                     line = reader.ReadLine();
+Line 27:                 }
+Line 28: 
+Line 29:                 reader.Close();
+Line 30:                 writer.Close();
+Line 31:             }
+Line 32:             catch (IOException)
+Line 33:             {
+Line 34:                 Console.WriteLine("Could not locate the source file.");
+Line 35:             }
+Line 36:             catch (UnauthorizedAccessException)
+Line 37:             {
+Line 38:                 Console.WriteLine("You dont have permission to write in this directory.");
+Line 39:             }
+Line 40:             catch (Exception e)
+Line 41:             {
+Line 42:                 Console.WriteLine(e.Message);
+Line 43:             }
+Line 44:         }
+Line 45:     }
+Line 46: }

@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.MultidimentionalArrays\02.MaxSumOfSquareInMatrix\obj\Debug\02.MaxSumOfSquareInMatrix.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.MultidimentionalArrays\02.MaxSumOfSquareInMatrix\bin\Debug\02.MaxSumOfSquareInMatrix.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.MultidimentionalArrays\02.MaxSumOfSquareInMatrix\bin\Debug\02.MaxSumOfSquareInMatrix.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.MultidimentionalArrays\02.MaxSumOfSquareInMatrix\bin\Debug\02.MaxSumOfSquareInMatrix.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.MultidimentionalArrays\02.MaxSumOfSquareInMatrix\obj\Debug\02.MaxSumOfSquareInMatrix.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.MultidimentionalArrays\02.MaxSumOfSquareInMatrix\obj\Debug\02.MaxSumOfSquareInMatrix.pdb

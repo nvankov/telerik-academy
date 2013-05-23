@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\06.ExceptionHandling\04.DownloadFileFromInternet\bin\Debug\04.DownloadFileFromInternet.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\06.ExceptionHandling\04.DownloadFileFromInternet\bin\Debug\04.DownloadFileFromInternet.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\06.ExceptionHandling\04.DownloadFileFromInternet\bin\Debug\04.DownloadFileFromInternet.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\06.ExceptionHandling\04.DownloadFileFromInternet\obj\Debug\04.DownloadFileFromInternet.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\06.ExceptionHandling\04.DownloadFileFromInternet\obj\Debug\04.DownloadFileFromInternet.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\06.ExceptionHandling\04.DownloadFileFromInternet\obj\Debug\04.DownloadFileFromInternet.pdb

@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\02.ConcatenateTwoFiles\bin\Debug\02.ConcatenateTwoFiles.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\02.ConcatenateTwoFiles\bin\Debug\02.ConcatenateTwoFiles.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\02.ConcatenateTwoFiles\bin\Debug\02.ConcatenateTwoFiles.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\02.ConcatenateTwoFiles\obj\Debug\02.ConcatenateTwoFiles.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\02.ConcatenateTwoFiles\obj\Debug\02.ConcatenateTwoFiles.pdb

@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\01.HelloUser\bin\Debug\01.HelloUser.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\01.HelloUser\bin\Debug\01.HelloUser.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\01.HelloUser\bin\Debug\01.HelloUser.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\01.HelloUser\obj\Debug\01.HelloUser.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\01.HelloUser\obj\Debug\01.HelloUser.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\01.HelloUser\obj\Debug\01.HelloUser.pdb

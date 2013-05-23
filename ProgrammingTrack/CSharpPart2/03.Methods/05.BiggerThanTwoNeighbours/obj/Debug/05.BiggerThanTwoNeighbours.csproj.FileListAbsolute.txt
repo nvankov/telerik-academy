@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\05.BiggerThanTwoNeighbours\bin\Debug\05.BiggerThanTwoNeighbours.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\05.BiggerThanTwoNeighbours\bin\Debug\05.BiggerThanTwoNeighbours.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\05.BiggerThanTwoNeighbours\bin\Debug\05.BiggerThanTwoNeighbours.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\05.BiggerThanTwoNeighbours\obj\Debug\05.BiggerThanTwoNeighbours.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\05.BiggerThanTwoNeighbours\obj\Debug\05.BiggerThanTwoNeighbours.pdb

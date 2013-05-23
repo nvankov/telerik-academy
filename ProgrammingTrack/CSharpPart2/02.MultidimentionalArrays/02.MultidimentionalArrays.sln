@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.PrintMatrix", "01.PrintMatrix\01.PrintMatrix.csproj", "{DDBD01AA-7C9E-47DB-89AC-8DFD0DE8125C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MaxSumOfSquareInMatrix", "02.MaxSumOfSquareInMatrix\02.MaxSumOfSquareInMatrix.csproj", "{18DC7ED4-BC34-4B17-A271-D20D34D07825}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.BinarySearchInArray", "04.BinarySearchInArray\04.BinarySearchInArray.csproj", "{DDCB0E77-284D-4471-9A7D-1C9DE0D1D7F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDBD01AA-7C9E-47DB-89AC-8DFD0DE8125C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDBD01AA-7C9E-47DB-89AC-8DFD0DE8125C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDBD01AA-7C9E-47DB-89AC-8DFD0DE8125C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDBD01AA-7C9E-47DB-89AC-8DFD0DE8125C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18DC7ED4-BC34-4B17-A271-D20D34D07825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DC7ED4-BC34-4B17-A271-D20D34D07825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DC7ED4-BC34-4B17-A271-D20D34D07825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DC7ED4-BC34-4B17-A271-D20D34D07825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDCB0E77-284D-4471-9A7D-1C9DE0D1D7F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDCB0E77-284D-4471-9A7D-1C9DE0D1D7F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDCB0E77-284D-4471-9A7D-1C9DE0D1D7F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDCB0E77-284D-4471-9A7D-1C9DE0D1D7F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

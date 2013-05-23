@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.MultidimentionalArrays\01.PrintMatrix\bin\Debug\01.PrintMatrix.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.MultidimentionalArrays\01.PrintMatrix\bin\Debug\01.PrintMatrix.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.MultidimentionalArrays\01.PrintMatrix\bin\Debug\01.PrintMatrix.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.MultidimentionalArrays\01.PrintMatrix\obj\Debug\01.PrintMatrix.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.MultidimentionalArrays\01.PrintMatrix\obj\Debug\01.PrintMatrix.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.MultidimentionalArrays\01.PrintMatrix\obj\Debug\01.PrintMatrix.pdb

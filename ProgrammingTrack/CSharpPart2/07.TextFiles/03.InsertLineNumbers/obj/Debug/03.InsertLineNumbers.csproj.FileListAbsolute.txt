@@ -1,0 +1,6 @@
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\07.TextFiles\03.InsertLineNumbers\bin\Debug\03.InsertLineNumbers.exe.config
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\07.TextFiles\03.InsertLineNumbers\bin\Debug\03.InsertLineNumbers.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\07.TextFiles\03.InsertLineNumbers\bin\Debug\03.InsertLineNumbers.pdb
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\07.TextFiles\03.InsertLineNumbers\obj\Debug\03.InsertLineNumbers.csprojResolveAssemblyReference.cache
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\07.TextFiles\03.InsertLineNumbers\obj\Debug\03.InsertLineNumbers.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\07.TextFiles\03.InsertLineNumbers\obj\Debug\03.InsertLineNumbers.pdb

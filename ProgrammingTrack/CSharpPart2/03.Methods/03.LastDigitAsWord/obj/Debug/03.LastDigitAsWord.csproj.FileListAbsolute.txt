@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\03.LastDigitAsWord\bin\Debug\03.LastDigitAsWord.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\03.LastDigitAsWord\bin\Debug\03.LastDigitAsWord.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\03.LastDigitAsWord\bin\Debug\03.LastDigitAsWord.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\03.LastDigitAsWord\obj\Debug\03.LastDigitAsWord.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\03.LastDigitAsWord\obj\Debug\03.LastDigitAsWord.pdb

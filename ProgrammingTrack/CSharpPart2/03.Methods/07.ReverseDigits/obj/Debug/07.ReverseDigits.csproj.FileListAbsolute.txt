@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\07.ReverseDigits\bin\Debug\07.ReverseDigits.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\07.ReverseDigits\bin\Debug\07.ReverseDigits.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\07.ReverseDigits\bin\Debug\07.ReverseDigits.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\07.ReverseDigits\obj\Debug\07.ReverseDigits.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\07.ReverseDigits\obj\Debug\07.ReverseDigits.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\07.ReverseDigits\obj\Debug\07.ReverseDigits.pdb

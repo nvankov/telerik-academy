@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.ClassesAndObjects\03.PrintCurrentDayOfWeek\bin\Debug\03.PrintCurrentDayOfWeek.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.ClassesAndObjects\03.PrintCurrentDayOfWeek\bin\Debug\03.PrintCurrentDayOfWeek.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.ClassesAndObjects\03.PrintCurrentDayOfWeek\bin\Debug\03.PrintCurrentDayOfWeek.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.ClassesAndObjects\03.PrintCurrentDayOfWeek\obj\Debug\03.PrintCurrentDayOfWeek.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.ClassesAndObjects\03.PrintCurrentDayOfWeek\obj\Debug\03.PrintCurrentDayOfWeek.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.ClassesAndObjects\03.PrintCurrentDayOfWeek\obj\Debug\03.PrintCurrentDayOfWeek.csprojResolveAssemblyReference.cache

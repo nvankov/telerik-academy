@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\01.ArrayOf20Ints\bin\Debug\01.ArrayOf20Ints.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\01.ArrayOf20Ints\bin\Debug\01.ArrayOf20Ints.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\01.ArrayOf20Ints\bin\Debug\01.ArrayOf20Ints.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\01.ArrayOf20Ints\obj\Debug\01.ArrayOf20Ints.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\01.ArrayOf20Ints\obj\Debug\01.ArrayOf20Ints.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\01.ArrayOf20Ints\obj\Debug\01.ArrayOf20Ints.pdb

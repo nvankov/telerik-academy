@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\03.CompareCharArrays\bin\Debug\03.CompareCharArrays.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\03.CompareCharArrays\bin\Debug\03.CompareCharArrays.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\03.CompareCharArrays\bin\Debug\03.CompareCharArrays.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\03.CompareCharArrays\obj\Debug\03.CompareCharArrays.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\03.CompareCharArrays\obj\Debug\03.CompareCharArrays.pdb
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\01.Arrays\03.CompareCharArrays\obj\Debug\03.CompareCharArrays.csprojResolveAssemblyReference.cache
