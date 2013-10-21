@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\01.PrintFileOddLines\bin\Debug\01.PrintFileOddLines.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\01.PrintFileOddLines\bin\Debug\01.PrintFileOddLines.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\01.PrintFileOddLines\bin\Debug\01.PrintFileOddLines.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\01.PrintFileOddLines\obj\Debug\01.PrintFileOddLines.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\01.PrintFileOddLines\obj\Debug\01.PrintFileOddLines.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\01.PrintFileOddLines\obj\Debug\01.PrintFileOddLines.pdb

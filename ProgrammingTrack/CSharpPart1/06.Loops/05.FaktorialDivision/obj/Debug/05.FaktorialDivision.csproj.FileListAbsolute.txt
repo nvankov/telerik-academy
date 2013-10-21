@@ -1,0 +1,6 @@
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\06.Loops\05.FaktorialDivision\bin\Debug\05.FaktorialDivision.exe.config
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\06.Loops\05.FaktorialDivision\bin\Debug\05.FaktorialDivision.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\06.Loops\05.FaktorialDivision\bin\Debug\05.FaktorialDivision.pdb
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\06.Loops\05.FaktorialDivision\obj\Debug\05.FaktorialDivision.csprojResolveAssemblyReference.cache
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\06.Loops\05.FaktorialDivision\obj\Debug\05.FaktorialDivision.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\06.Loops\05.FaktorialDivision\obj\Debug\05.FaktorialDivision.pdb

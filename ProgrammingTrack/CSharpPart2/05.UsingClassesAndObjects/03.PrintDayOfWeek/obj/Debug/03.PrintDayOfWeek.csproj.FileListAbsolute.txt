@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.UsingClassesAndObjects\03.PrintDayOfWeek\bin\Debug\03.PrintDayOfWeek.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.UsingClassesAndObjects\03.PrintDayOfWeek\bin\Debug\03.PrintDayOfWeek.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.UsingClassesAndObjects\03.PrintDayOfWeek\bin\Debug\03.PrintDayOfWeek.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.UsingClassesAndObjects\03.PrintDayOfWeek\obj\Debug\03.PrintDayOfWeek.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.UsingClassesAndObjects\03.PrintDayOfWeek\obj\Debug\03.PrintDayOfWeek.pdb

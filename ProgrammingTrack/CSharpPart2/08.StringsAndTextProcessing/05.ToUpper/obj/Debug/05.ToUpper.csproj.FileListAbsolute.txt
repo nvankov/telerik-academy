@@ -1,0 +1,6 @@
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\08.StringsAndTextProcessing\05.ToUpper\bin\Debug\05.ToUpper.exe.config
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\08.StringsAndTextProcessing\05.ToUpper\obj\Debug\05.ToUpper.csprojResolveAssemblyReference.cache
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\08.StringsAndTextProcessing\05.ToUpper\bin\Debug\05.ToUpper.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\08.StringsAndTextProcessing\05.ToUpper\bin\Debug\05.ToUpper.pdb
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\08.StringsAndTextProcessing\05.ToUpper\obj\Debug\05.ToUpper.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\08.StringsAndTextProcessing\05.ToUpper\obj\Debug\05.ToUpper.pdb

@@ -1,0 +1,6 @@
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.Methods\08.AddsTwoNumbersAsArrays\bin\Debug\08.AddsTwoNumbersAsArrays.exe.config
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.Methods\08.AddsTwoNumbersAsArrays\bin\Debug\08.AddsTwoNumbersAsArrays.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.Methods\08.AddsTwoNumbersAsArrays\bin\Debug\08.AddsTwoNumbersAsArrays.pdb
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.Methods\08.AddsTwoNumbersAsArrays\obj\Debug\08.AddsTwoNumbersAsArrays.csprojResolveAssemblyReference.cache
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.Methods\08.AddsTwoNumbersAsArrays\obj\Debug\08.AddsTwoNumbersAsArrays.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.Methods\08.AddsTwoNumbersAsArrays\obj\Debug\08.AddsTwoNumbersAsArrays.pdb

@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\09.MostFrequentNumber\bin\Debug\09.MostFrequentNumber.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\09.MostFrequentNumber\bin\Debug\09.MostFrequentNumber.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\09.MostFrequentNumber\bin\Debug\09.MostFrequentNumber.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\09.MostFrequentNumber\obj\Debug\09.MostFrequentNumber.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\09.MostFrequentNumber\obj\Debug\09.MostFrequentNumber.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\09.MostFrequentNumber\obj\Debug\09.MostFrequentNumber.pdb

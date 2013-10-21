@@ -1,0 +1,6 @@
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\02.MultidimensionalArrays\03.SequenceInArray\bin\Debug\03.SequenceInArray.exe.config
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\02.MultidimensionalArrays\03.SequenceInArray\bin\Debug\03.SequenceInArray.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\02.MultidimensionalArrays\03.SequenceInArray\bin\Debug\03.SequenceInArray.pdb
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\02.MultidimensionalArrays\03.SequenceInArray\obj\Debug\03.SequenceInArray.csprojResolveAssemblyReference.cache
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\02.MultidimensionalArrays\03.SequenceInArray\obj\Debug\03.SequenceInArray.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\02.MultidimensionalArrays\03.SequenceInArray\obj\Debug\03.SequenceInArray.pdb

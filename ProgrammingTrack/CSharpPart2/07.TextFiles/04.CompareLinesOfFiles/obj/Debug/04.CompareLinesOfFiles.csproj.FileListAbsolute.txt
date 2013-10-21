@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\04.CompareLinesOfFiles\bin\Debug\04.CompareLinesOfFiles.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\04.CompareLinesOfFiles\obj\Debug\04.CompareLinesOfFiles.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\04.CompareLinesOfFiles\bin\Debug\04.CompareLinesOfFiles.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\04.CompareLinesOfFiles\bin\Debug\04.CompareLinesOfFiles.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\04.CompareLinesOfFiles\obj\Debug\04.CompareLinesOfFiles.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\04.CompareLinesOfFiles\obj\Debug\04.CompareLinesOfFiles.pdb

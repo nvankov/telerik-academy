@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\05.MaxIncreasingSequence\bin\Debug\05.MaxIncreasingSequence.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\05.MaxIncreasingSequence\bin\Debug\05.MaxIncreasingSequence.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\05.MaxIncreasingSequence\bin\Debug\05.MaxIncreasingSequence.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\05.MaxIncreasingSequence\obj\Debug\05.MaxIncreasingSequence.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\05.MaxIncreasingSequence\obj\Debug\05.MaxIncreasingSequence.pdb

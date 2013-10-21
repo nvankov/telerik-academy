@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\05.MaxSumOfSubmatrix\bin\Debug\05.MaxSumOfSubmatrix.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\05.MaxSumOfSubmatrix\bin\Debug\05.MaxSumOfSubmatrix.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\05.MaxSumOfSubmatrix\bin\Debug\05.MaxSumOfSubmatrix.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\05.MaxSumOfSubmatrix\obj\Debug\05.MaxSumOfSubmatrix.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\05.MaxSumOfSubmatrix\obj\Debug\05.MaxSumOfSubmatrix.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\07.TextFiles\05.MaxSumOfSubmatrix\obj\Debug\05.MaxSumOfSubmatrix.pdb

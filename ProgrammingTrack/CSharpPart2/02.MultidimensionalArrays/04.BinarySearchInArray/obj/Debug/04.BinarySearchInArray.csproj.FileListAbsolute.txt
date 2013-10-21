@@ -1,0 +1,5 @@
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\02.MultidimensionalArrays\04.BinarySearchInArray\bin\Debug\04.BinarySearchInArray.exe.config
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\02.MultidimensionalArrays\04.BinarySearchInArray\bin\Debug\04.BinarySearchInArray.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\02.MultidimensionalArrays\04.BinarySearchInArray\bin\Debug\04.BinarySearchInArray.pdb
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\02.MultidimensionalArrays\04.BinarySearchInArray\obj\Debug\04.BinarySearchInArray.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\02.MultidimensionalArrays\04.BinarySearchInArray\obj\Debug\04.BinarySearchInArray.pdb

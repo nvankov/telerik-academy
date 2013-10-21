@@ -1,0 +1,6 @@
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.Methods\05.CheckForBiggerNeighbours\bin\Debug\05.CheckForBiggerNeighbours.exe.config
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.Methods\05.CheckForBiggerNeighbours\bin\Debug\05.CheckForBiggerNeighbours.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.Methods\05.CheckForBiggerNeighbours\bin\Debug\05.CheckForBiggerNeighbours.pdb
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.Methods\05.CheckForBiggerNeighbours\obj\Debug\05.CheckForBiggerNeighbours.csprojResolveAssemblyReference.cache
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.Methods\05.CheckForBiggerNeighbours\obj\Debug\05.CheckForBiggerNeighbours.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.Methods\05.CheckForBiggerNeighbours\obj\Debug\05.CheckForBiggerNeighbours.pdb

@@ -1,0 +1,5 @@
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\05.UsingClassesAndObjects\06.TrimStringWitNumbers\bin\Debug\06.TrimStringWitNumbers.exe.config
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\05.UsingClassesAndObjects\06.TrimStringWitNumbers\bin\Debug\06.TrimStringWitNumbers.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\05.UsingClassesAndObjects\06.TrimStringWitNumbers\bin\Debug\06.TrimStringWitNumbers.pdb
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\05.UsingClassesAndObjects\06.TrimStringWitNumbers\obj\Debug\06.TrimStringWitNumbers.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\05.UsingClassesAndObjects\06.TrimStringWitNumbers\obj\Debug\06.TrimStringWitNumbers.pdb

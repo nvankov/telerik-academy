@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\04.MaxSequenceOfEquals\bin\Debug\04.MaxSequenceOfEquals.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\04.MaxSequenceOfEquals\bin\Debug\04.MaxSequenceOfEquals.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\04.MaxSequenceOfEquals\bin\Debug\04.MaxSequenceOfEquals.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\04.MaxSequenceOfEquals\obj\Debug\04.MaxSequenceOfEquals.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\04.MaxSequenceOfEquals\obj\Debug\04.MaxSequenceOfEquals.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\04.MaxSequenceOfEquals\obj\Debug\04.MaxSequenceOfEquals.pdb

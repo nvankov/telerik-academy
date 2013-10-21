@@ -1,0 +1,6 @@
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\01.Arrays\13.MergeSort\bin\Debug\13.MergeSort.exe.config
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\01.Arrays\13.MergeSort\bin\Debug\13.MergeSort.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\01.Arrays\13.MergeSort\bin\Debug\13.MergeSort.pdb
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\01.Arrays\13.MergeSort\obj\Debug\13.MergeSort.csprojResolveAssemblyReference.cache
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\01.Arrays\13.MergeSort\obj\Debug\13.MergeSort.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\01.Arrays\13.MergeSort\obj\Debug\13.MergeSort.pdb

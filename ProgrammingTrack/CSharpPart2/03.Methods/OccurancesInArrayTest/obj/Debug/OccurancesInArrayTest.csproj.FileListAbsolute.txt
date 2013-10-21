@@ -1,0 +1,7 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\OccurancesInArrayTest\obj\Debug\OccurancesInArrayTest.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\OccurancesInArrayTest\bin\Debug\OccurancesInArrayTest.dll
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\OccurancesInArrayTest\bin\Debug\OccurancesInArrayTest.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\OccurancesInArrayTest\bin\Debug\04.NumberInArrayCount.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\OccurancesInArrayTest\bin\Debug\04.NumberInArrayCount.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\OccurancesInArrayTest\obj\Debug\OccurancesInArrayTest.dll
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\OccurancesInArrayTest\obj\Debug\OccurancesInArrayTest.pdb

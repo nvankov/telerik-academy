@@ -1,0 +1,8 @@
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.Methods\06.IndexOfFirstBiggerElement\bin\Debug\06.IndexOfFirstBiggerElement.exe.config
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.Methods\06.IndexOfFirstBiggerElement\bin\Debug\06.IndexOfFirstBiggerElement.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.Methods\06.IndexOfFirstBiggerElement\bin\Debug\06.IndexOfFirstBiggerElement.pdb
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.Methods\06.IndexOfFirstBiggerElement\obj\Debug\06.IndexOfFirstBiggerElement.csprojResolveAssemblyReference.cache
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.Methods\06.IndexOfFirstBiggerElement\obj\Debug\06.IndexOfFirstBiggerElement.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.Methods\06.IndexOfFirstBiggerElement\obj\Debug\06.IndexOfFirstBiggerElement.pdb
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.Methods\06.IndexOfFirstBiggerElement\bin\Debug\05.CheckForBiggerNeighbours.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.Methods\06.IndexOfFirstBiggerElement\bin\Debug\05.CheckForBiggerNeighbours.pdb

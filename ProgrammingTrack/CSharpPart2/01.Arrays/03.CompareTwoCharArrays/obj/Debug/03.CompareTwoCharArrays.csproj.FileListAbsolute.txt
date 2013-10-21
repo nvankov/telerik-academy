@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\03.CompareTwoCharArrays\bin\Debug\03.CompareTwoCharArrays.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\03.CompareTwoCharArrays\bin\Debug\03.CompareTwoCharArrays.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\03.CompareTwoCharArrays\bin\Debug\03.CompareTwoCharArrays.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\03.CompareTwoCharArrays\obj\Debug\03.CompareTwoCharArrays.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\03.CompareTwoCharArrays\obj\Debug\03.CompareTwoCharArrays.pdb

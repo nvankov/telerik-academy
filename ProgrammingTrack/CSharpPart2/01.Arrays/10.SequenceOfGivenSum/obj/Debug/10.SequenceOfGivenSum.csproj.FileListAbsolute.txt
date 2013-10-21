@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\10.SequenceOfGivenSum\bin\Debug\10.SequenceOfGivenSum.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\10.SequenceOfGivenSum\bin\Debug\10.SequenceOfGivenSum.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\10.SequenceOfGivenSum\bin\Debug\10.SequenceOfGivenSum.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\10.SequenceOfGivenSum\obj\Debug\10.SequenceOfGivenSum.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\10.SequenceOfGivenSum\obj\Debug\10.SequenceOfGivenSum.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\10.SequenceOfGivenSum\obj\Debug\10.SequenceOfGivenSum.pdb

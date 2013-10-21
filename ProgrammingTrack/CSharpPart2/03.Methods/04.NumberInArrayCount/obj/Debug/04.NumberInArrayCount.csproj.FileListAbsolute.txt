@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\04.NumberInArrayCount\bin\Debug\04.NumberInArrayCount.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\04.NumberInArrayCount\bin\Debug\04.NumberInArrayCount.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\04.NumberInArrayCount\bin\Debug\04.NumberInArrayCount.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\04.NumberInArrayCount\obj\Debug\04.NumberInArrayCount.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.Methods\04.NumberInArrayCount\obj\Debug\04.NumberInArrayCount.pdb

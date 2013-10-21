@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\06.Loops\12.ReadNOutputMatrix\bin\Debug\12.ReadNOutputMatrix.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\06.Loops\12.ReadNOutputMatrix\bin\Debug\12.ReadNOutputMatrix.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\06.Loops\12.ReadNOutputMatrix\bin\Debug\12.ReadNOutputMatrix.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\06.Loops\12.ReadNOutputMatrix\obj\Debug\12.ReadNOutputMatrix.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\06.Loops\12.ReadNOutputMatrix\obj\Debug\12.ReadNOutputMatrix.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\06.Loops\12.ReadNOutputMatrix\obj\Debug\12.ReadNOutputMatrix.pdb

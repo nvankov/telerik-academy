@@ -1,0 +1,6 @@
+C:\Users\N.Vankov\Documents\Visual Studio 2012\Projects\05.UsingClassesAndObjects\05.NumberOfWorkdays\bin\Debug\05.NumberOfWorkdays.exe.config
+C:\Users\N.Vankov\Documents\Visual Studio 2012\Projects\05.UsingClassesAndObjects\05.NumberOfWorkdays\bin\Debug\05.NumberOfWorkdays.exe
+C:\Users\N.Vankov\Documents\Visual Studio 2012\Projects\05.UsingClassesAndObjects\05.NumberOfWorkdays\bin\Debug\05.NumberOfWorkdays.pdb
+C:\Users\N.Vankov\Documents\Visual Studio 2012\Projects\05.UsingClassesAndObjects\05.NumberOfWorkdays\obj\Debug\05.NumberOfWorkdays.csprojResolveAssemblyReference.cache
+C:\Users\N.Vankov\Documents\Visual Studio 2012\Projects\05.UsingClassesAndObjects\05.NumberOfWorkdays\obj\Debug\05.NumberOfWorkdays.exe
+C:\Users\N.Vankov\Documents\Visual Studio 2012\Projects\05.UsingClassesAndObjects\05.NumberOfWorkdays\obj\Debug\05.NumberOfWorkdays.pdb

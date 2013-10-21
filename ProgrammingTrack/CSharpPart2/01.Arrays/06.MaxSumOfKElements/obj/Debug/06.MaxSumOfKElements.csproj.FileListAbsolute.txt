@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\06.MaxSumOfKElements\bin\Debug\06.MaxSumOfKElements.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\06.MaxSumOfKElements\bin\Debug\06.MaxSumOfKElements.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\06.MaxSumOfKElements\bin\Debug\06.MaxSumOfKElements.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\06.MaxSumOfKElements\obj\Debug\06.MaxSumOfKElements.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\06.MaxSumOfKElements\obj\Debug\06.MaxSumOfKElements.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.Arrays\06.MaxSumOfKElements\obj\Debug\06.MaxSumOfKElements.pdb

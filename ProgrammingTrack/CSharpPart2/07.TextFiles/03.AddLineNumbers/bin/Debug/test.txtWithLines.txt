@@ -1,0 +1,51 @@
+Line 0: using System;
+Line 1: using System.Collections.Generic;
+Line 2: using System.Linq;
+Line 3: using System.Text;
+Line 4: using System.Threading.Tasks;
+Line 5: using System.IO;
+Line 6: 
+Line 7: namespace _03.AddLineNumbers
+Line 8: {
+Line 9:     class AddLineNumbers
+Line 10:     {
+Line 11:         private const string FILENAME = "test.txt";
+Line 12: 
+Line 13:         public static void AddLineNumberToFIle(string filename)
+Line 14:         {
+Line 15:             string newFile = String.Format("{0}WithLines.txt", filename);
+Line 16: 
+Line 17:             using (StreamReader reader = new StreamReader(filename))
+Line 18:             {
+Line 19:                 using (StreamWriter writer = new StreamWriter(newFile))
+Line 20:                 {
+Line 21:                     string line = reader.ReadLine();
+Line 22:                     int lineNumber = 0;
+Line 23: 
+Line 24:                     while (line != null)
+Line 25:                     {
+Line 26:                         writer.Write("Line {0}: {1}", lineNumber, line);
+Line 27:                         lineNumber++;
+Line 28:                         line = reader.ReadLine();
+Line 29:                     }
+Line 30:                 }
+Line 31:             }
+Line 32:         }
+Line 33: 
+Line 34:         static void Main(string[] args)
+Line 35:         {
+Line 36:             try
+Line 37:             {
+Line 38:                 AddLineNumberToFIle(FILENAME);
+Line 39:             }
+Line 40:             catch (FileNotFoundException fe)
+Line 41:             {
+Line 42:                 Console.WriteLine("Error: {0}", fe.Message);
+Line 43:             }
+Line 44:             catch (UnauthorizedAccessException ue)
+Line 45:             {
+Line 46:                 Console.WriteLine("Could not read or write to file. Permission is denied. {0}", ue.Message);
+Line 47:             }
+Line 48:         }
+Line 49:     }
+Line 50: }

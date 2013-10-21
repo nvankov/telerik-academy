@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\08.StringsAndTextProcessing\03.CheckBracketsInExpression\bin\Debug\03.CheckBracketsInExpression.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\08.StringsAndTextProcessing\03.CheckBracketsInExpression\bin\Debug\03.CheckBracketsInExpression.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\08.StringsAndTextProcessing\03.CheckBracketsInExpression\bin\Debug\03.CheckBracketsInExpression.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\08.StringsAndTextProcessing\03.CheckBracketsInExpression\obj\Debug\03.CheckBracketsInExpression.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\08.StringsAndTextProcessing\03.CheckBracketsInExpression\obj\Debug\03.CheckBracketsInExpression.pdb

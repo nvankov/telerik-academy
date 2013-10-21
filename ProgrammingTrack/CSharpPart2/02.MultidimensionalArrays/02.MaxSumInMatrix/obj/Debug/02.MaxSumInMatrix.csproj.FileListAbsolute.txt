@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.MultidimensionalArrays\02.MaxSumInMatrix\bin\Debug\02.MaxSumInMatrix.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.MultidimensionalArrays\02.MaxSumInMatrix\bin\Debug\02.MaxSumInMatrix.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.MultidimensionalArrays\02.MaxSumInMatrix\bin\Debug\02.MaxSumInMatrix.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.MultidimensionalArrays\02.MaxSumInMatrix\obj\Debug\02.MaxSumInMatrix.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.MultidimensionalArrays\02.MaxSumInMatrix\obj\Debug\02.MaxSumInMatrix.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.MultidimensionalArrays\02.MaxSumInMatrix\obj\Debug\02.MaxSumInMatrix.pdb

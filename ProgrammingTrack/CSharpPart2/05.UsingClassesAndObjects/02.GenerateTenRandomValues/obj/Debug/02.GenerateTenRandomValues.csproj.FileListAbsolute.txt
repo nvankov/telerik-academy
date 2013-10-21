@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.UsingClassesAndObjects\02.GenerateTenRandomValues\bin\Debug\02.GenerateTenRandomValues.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.UsingClassesAndObjects\02.GenerateTenRandomValues\bin\Debug\02.GenerateTenRandomValues.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.UsingClassesAndObjects\02.GenerateTenRandomValues\bin\Debug\02.GenerateTenRandomValues.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.UsingClassesAndObjects\02.GenerateTenRandomValues\obj\Debug\02.GenerateTenRandomValues.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\05.UsingClassesAndObjects\02.GenerateTenRandomValues\obj\Debug\02.GenerateTenRandomValues.pdb
+C:\Users\N.Vankov\Documents\Visual Studio 2012\Projects\05.UsingClassesAndObjects\02.GenerateTenRandomValues\obj\Debug\02.GenerateTenRandomValues.csprojResolveAssemblyReference.cache
