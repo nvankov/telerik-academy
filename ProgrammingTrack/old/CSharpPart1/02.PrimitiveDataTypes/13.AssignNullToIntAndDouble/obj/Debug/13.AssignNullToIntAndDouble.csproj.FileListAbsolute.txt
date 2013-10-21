@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\13.AssignNullToIntAndDouble\bin\Debug\13.AssignNullToIntAndDouble.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\13.AssignNullToIntAndDouble\bin\Debug\13.AssignNullToIntAndDouble.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\13.AssignNullToIntAndDouble\bin\Debug\13.AssignNullToIntAndDouble.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\13.AssignNullToIntAndDouble\obj\Debug\13.AssignNullToIntAndDouble.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\13.AssignNullToIntAndDouble\obj\Debug\13.AssignNullToIntAndDouble.pdb

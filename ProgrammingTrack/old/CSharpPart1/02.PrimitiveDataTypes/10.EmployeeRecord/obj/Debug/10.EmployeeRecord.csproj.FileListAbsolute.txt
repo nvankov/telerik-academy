@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\10.EmployeeRecord\bin\Debug\10.EmployeeRecord.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\10.EmployeeRecord\bin\Debug\10.EmployeeRecord.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\10.EmployeeRecord\bin\Debug\10.EmployeeRecord.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\10.EmployeeRecord\obj\Debug\10.EmployeeRecord.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\10.EmployeeRecord\obj\Debug\10.EmployeeRecord.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\10.EmployeeRecord\obj\Debug\10.EmployeeRecord.pdb

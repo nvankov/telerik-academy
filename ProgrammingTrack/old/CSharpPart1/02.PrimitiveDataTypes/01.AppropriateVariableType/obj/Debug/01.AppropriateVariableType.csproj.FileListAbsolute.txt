@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\01.AppropriateVariableType\bin\Debug\01.AppropriateVariableType.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\01.AppropriateVariableType\bin\Debug\01.AppropriateVariableType.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\01.AppropriateVariableType\bin\Debug\01.AppropriateVariableType.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\01.AppropriateVariableType\obj\Debug\01.AppropriateVariableType.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\01.AppropriateVariableType\obj\Debug\01.AppropriateVariableType.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\01.AppropriateVariableType\obj\Debug\01.AppropriateVariableType.pdb

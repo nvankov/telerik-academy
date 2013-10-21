@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\04.ConsoleInputOutput\03.CompanyManagerAndInfo\bin\Debug\03.CompanyManagerAndInfo.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\04.ConsoleInputOutput\03.CompanyManagerAndInfo\bin\Debug\03.CompanyManagerAndInfo.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\04.ConsoleInputOutput\03.CompanyManagerAndInfo\bin\Debug\03.CompanyManagerAndInfo.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\04.ConsoleInputOutput\03.CompanyManagerAndInfo\obj\Debug\03.CompanyManagerAndInfo.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\04.ConsoleInputOutput\03.CompanyManagerAndInfo\obj\Debug\03.CompanyManagerAndInfo.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\04.ConsoleInputOutput\03.CompanyManagerAndInfo\obj\Debug\03.CompanyManagerAndInfo.pdb

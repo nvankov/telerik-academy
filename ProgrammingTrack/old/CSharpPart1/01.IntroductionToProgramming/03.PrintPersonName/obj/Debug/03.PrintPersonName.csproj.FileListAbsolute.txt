@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.IntroductionToProgramming\03.PrintPersonName\bin\Debug\03.PrintPersonName.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.IntroductionToProgramming\03.PrintPersonName\bin\Debug\03.PrintPersonName.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.IntroductionToProgramming\03.PrintPersonName\bin\Debug\03.PrintPersonName.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.IntroductionToProgramming\03.PrintPersonName\obj\Debug\03.PrintPersonName.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\01.IntroductionToProgramming\03.PrintPersonName\obj\Debug\03.PrintPersonName.pdb

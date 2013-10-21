@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\04.ConsoleInputOutput\10.CalculateSumWithAccuracy\bin\Debug\10.CalculateSumWithAccuracy.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\04.ConsoleInputOutput\10.CalculateSumWithAccuracy\bin\Debug\10.CalculateSumWithAccuracy.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\04.ConsoleInputOutput\10.CalculateSumWithAccuracy\bin\Debug\10.CalculateSumWithAccuracy.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\04.ConsoleInputOutput\10.CalculateSumWithAccuracy\obj\Debug\10.CalculateSumWithAccuracy.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\04.ConsoleInputOutput\10.CalculateSumWithAccuracy\obj\Debug\10.CalculateSumWithAccuracy.pdb

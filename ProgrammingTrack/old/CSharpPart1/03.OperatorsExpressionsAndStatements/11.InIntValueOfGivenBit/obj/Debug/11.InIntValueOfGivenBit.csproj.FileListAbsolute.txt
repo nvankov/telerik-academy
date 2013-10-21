@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\11.InIntValueOfGivenBit\bin\Debug\11.InIntValueOfGivenBit.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\11.InIntValueOfGivenBit\bin\Debug\11.InIntValueOfGivenBit.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\11.InIntValueOfGivenBit\bin\Debug\11.InIntValueOfGivenBit.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\11.InIntValueOfGivenBit\obj\Debug\11.InIntValueOfGivenBit.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\11.InIntValueOfGivenBit\obj\Debug\11.InIntValueOfGivenBit.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\11.InIntValueOfGivenBit\obj\Debug\11.InIntValueOfGivenBit.pdb

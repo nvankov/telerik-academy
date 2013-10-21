@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\12.ModifyBinaryRepresentationOfN\bin\Debug\12.ModifyBinaryRepresentationOfN.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\12.ModifyBinaryRepresentationOfN\bin\Debug\12.ModifyBinaryRepresentationOfN.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\12.ModifyBinaryRepresentationOfN\bin\Debug\12.ModifyBinaryRepresentationOfN.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\12.ModifyBinaryRepresentationOfN\obj\Debug\12.ModifyBinaryRepresentationOfN.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\12.ModifyBinaryRepresentationOfN\obj\Debug\12.ModifyBinaryRepresentationOfN.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\12.ModifyBinaryRepresentationOfN\obj\Debug\12.ModifyBinaryRepresentationOfN.csprojResolveAssemblyReference.cache

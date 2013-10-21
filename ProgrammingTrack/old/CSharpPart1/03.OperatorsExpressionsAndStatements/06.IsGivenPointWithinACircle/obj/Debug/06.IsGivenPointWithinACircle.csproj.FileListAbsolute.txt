@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\06.IsGivenPointWithinACircle\bin\Debug\06.IsGivenPointWithinACircle.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\06.IsGivenPointWithinACircle\bin\Debug\06.IsGivenPointWithinACircle.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\06.IsGivenPointWithinACircle\bin\Debug\06.IsGivenPointWithinACircle.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\06.IsGivenPointWithinACircle\obj\Debug\06.IsGivenPointWithinACircle.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\06.IsGivenPointWithinACircle\obj\Debug\06.IsGivenPointWithinACircle.pdb

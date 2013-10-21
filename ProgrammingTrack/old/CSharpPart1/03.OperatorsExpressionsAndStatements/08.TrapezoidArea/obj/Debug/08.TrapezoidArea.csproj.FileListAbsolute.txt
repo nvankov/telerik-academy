@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\08.TrapezoidArea\bin\Debug\08.TrapezoidArea.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\08.TrapezoidArea\bin\Debug\08.TrapezoidArea.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\08.TrapezoidArea\bin\Debug\08.TrapezoidArea.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\08.TrapezoidArea\obj\Debug\08.TrapezoidArea.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\08.TrapezoidArea\obj\Debug\08.TrapezoidArea.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\08.TrapezoidArea\obj\Debug\08.TrapezoidArea.pdb

@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\14.ExchangeSelectedBits\bin\Debug\14.ExchangeSelectedBits.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\14.ExchangeSelectedBits\bin\Debug\14.ExchangeSelectedBits.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\14.ExchangeSelectedBits\bin\Debug\14.ExchangeSelectedBits.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\14.ExchangeSelectedBits\obj\Debug\14.ExchangeSelectedBits.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\14.ExchangeSelectedBits\obj\Debug\14.ExchangeSelectedBits.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\14.ExchangeSelectedBits\obj\Debug\14.ExchangeSelectedBits.pdb

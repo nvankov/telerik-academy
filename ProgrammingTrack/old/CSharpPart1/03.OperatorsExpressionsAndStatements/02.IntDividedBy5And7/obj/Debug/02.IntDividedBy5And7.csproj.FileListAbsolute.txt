@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\02.IntDividedBy5And7\bin\Debug\02.IntDividedBy5And7.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\02.IntDividedBy5And7\bin\Debug\02.IntDividedBy5And7.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\02.IntDividedBy5And7\bin\Debug\02.IntDividedBy5And7.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\02.IntDividedBy5And7\obj\Debug\02.IntDividedBy5And7.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\02.IntDividedBy5And7\obj\Debug\02.IntDividedBy5And7.pdb

@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\08.StringsWithQuotes\bin\Debug\08.StringsWithQuotes.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\08.StringsWithQuotes\bin\Debug\08.StringsWithQuotes.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\08.StringsWithQuotes\bin\Debug\08.StringsWithQuotes.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\08.StringsWithQuotes\obj\Debug\08.StringsWithQuotes.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\08.StringsWithQuotes\obj\Debug\08.StringsWithQuotes.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\08.StringsWithQuotes\obj\Debug\08.StringsWithQuotes.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\11.ExchangeIntValues\bin\Debug\11.ExchangeIntValues.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\11.ExchangeIntValues\bin\Debug\11.ExchangeIntValues.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\11.ExchangeIntValues\bin\Debug\11.ExchangeIntValues.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\11.ExchangeIntValues\obj\Debug\11.ExchangeIntValues.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.PrimitiveDataTypes\11.ExchangeIntValues\obj\Debug\11.ExchangeIntValues.pdb

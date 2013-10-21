@@ -1,0 +1,5 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\05.ThirdBitIs1Or0\bin\Debug\05.ThirdBitIs1Or0.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\05.ThirdBitIs1Or0\bin\Debug\05.ThirdBitIs1Or0.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\05.ThirdBitIs1Or0\bin\Debug\05.ThirdBitIs1Or0.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\05.ThirdBitIs1Or0\obj\Debug\05.ThirdBitIs1Or0.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\05.ThirdBitIs1Or0\obj\Debug\05.ThirdBitIs1Or0.pdb
