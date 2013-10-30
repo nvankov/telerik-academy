@@ -1,0 +1,6 @@
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\02.DefiningClassesPart2\GenericListProject\bin\Debug\GenericListProject.exe.config
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\02.DefiningClassesPart2\GenericListProject\bin\Debug\GenericListProject.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\02.DefiningClassesPart2\GenericListProject\bin\Debug\GenericListProject.pdb
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\02.DefiningClassesPart2\GenericListProject\obj\Debug\GenericListProject.csprojResolveAssemblyReference.cache
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\02.DefiningClassesPart2\GenericListProject\obj\Debug\GenericListProject.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\02.DefiningClassesPart2\GenericListProject\obj\Debug\GenericListProject.pdb

@@ -1,0 +1,6 @@
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.ExtensionMethodsDelegatesLambdaLINQ\03.StudentLINQQueries\bin\Debug\03.StudentLINQQueries.exe.config
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.ExtensionMethodsDelegatesLambdaLINQ\03.StudentLINQQueries\bin\Debug\03.StudentLINQQueries.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.ExtensionMethodsDelegatesLambdaLINQ\03.StudentLINQQueries\bin\Debug\03.StudentLINQQueries.pdb
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.ExtensionMethodsDelegatesLambdaLINQ\03.StudentLINQQueries\obj\Debug\03.StudentLINQQueries.csprojResolveAssemblyReference.cache
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.ExtensionMethodsDelegatesLambdaLINQ\03.StudentLINQQueries\obj\Debug\03.StudentLINQQueries.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.ExtensionMethodsDelegatesLambdaLINQ\03.StudentLINQQueries\obj\Debug\03.StudentLINQQueries.pdb

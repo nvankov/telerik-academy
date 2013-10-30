@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.ExtensionMethodsDelegatesLambdaLINQ\01.StringBuilderSubstring\bin\Debug\01.StringBuilderSubstring.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.ExtensionMethodsDelegatesLambdaLINQ\01.StringBuilderSubstring\obj\Debug\01.StringBuilderSubstring.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.ExtensionMethodsDelegatesLambdaLINQ\01.StringBuilderSubstring\bin\Debug\01.StringBuilderSubstring.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.ExtensionMethodsDelegatesLambdaLINQ\01.StringBuilderSubstring\bin\Debug\01.StringBuilderSubstring.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.ExtensionMethodsDelegatesLambdaLINQ\01.StringBuilderSubstring\obj\Debug\01.StringBuilderSubstring.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\03.ExtensionMethodsDelegatesLambdaLINQ\01.StringBuilderSubstring\obj\Debug\01.StringBuilderSubstring.pdb

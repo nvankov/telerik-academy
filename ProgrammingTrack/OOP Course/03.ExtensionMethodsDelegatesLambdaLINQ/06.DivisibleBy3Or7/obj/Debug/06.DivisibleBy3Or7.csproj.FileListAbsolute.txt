@@ -1,0 +1,6 @@
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.ExtensionMethodsDelegatesLambdaLINQ\06.DivisibleBy3Or7\bin\Debug\06.DivisibleBy3Or7.exe.config
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.ExtensionMethodsDelegatesLambdaLINQ\06.DivisibleBy3Or7\bin\Debug\06.DivisibleBy3Or7.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.ExtensionMethodsDelegatesLambdaLINQ\06.DivisibleBy3Or7\bin\Debug\06.DivisibleBy3Or7.pdb
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.ExtensionMethodsDelegatesLambdaLINQ\06.DivisibleBy3Or7\obj\Debug\06.DivisibleBy3Or7.csprojResolveAssemblyReference.cache
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.ExtensionMethodsDelegatesLambdaLINQ\06.DivisibleBy3Or7\obj\Debug\06.DivisibleBy3Or7.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.ExtensionMethodsDelegatesLambdaLINQ\06.DivisibleBy3Or7\obj\Debug\06.DivisibleBy3Or7.pdb

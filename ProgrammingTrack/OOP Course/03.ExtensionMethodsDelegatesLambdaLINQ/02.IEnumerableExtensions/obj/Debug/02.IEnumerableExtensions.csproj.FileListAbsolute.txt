@@ -1,0 +1,6 @@
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.ExtensionMethodsDelegatesLambdaLINQ\02.IEnumerableExtensions\bin\Debug\02.IEnumerableExtensions.exe.config
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.ExtensionMethodsDelegatesLambdaLINQ\02.IEnumerableExtensions\bin\Debug\02.IEnumerableExtensions.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.ExtensionMethodsDelegatesLambdaLINQ\02.IEnumerableExtensions\bin\Debug\02.IEnumerableExtensions.pdb
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.ExtensionMethodsDelegatesLambdaLINQ\02.IEnumerableExtensions\obj\Debug\02.IEnumerableExtensions.csprojResolveAssemblyReference.cache
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.ExtensionMethodsDelegatesLambdaLINQ\02.IEnumerableExtensions\obj\Debug\02.IEnumerableExtensions.exe
+C:\Users\N.Vankov\documents\visual studio 2012\Projects\03.ExtensionMethodsDelegatesLambdaLINQ\02.IEnumerableExtensions\obj\Debug\02.IEnumerableExtensions.pdb

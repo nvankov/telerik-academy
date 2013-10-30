@@ -1,0 +1,6 @@
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.DefiningClassesPart2\3DCoordinate\bin\Debug\3DCoordinate.exe.config
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.DefiningClassesPart2\3DCoordinate\bin\Debug\3DCoordinate.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.DefiningClassesPart2\3DCoordinate\bin\Debug\3DCoordinate.pdb
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.DefiningClassesPart2\3DCoordinate\obj\Debug\3DCoordinate.csprojResolveAssemblyReference.cache
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.DefiningClassesPart2\3DCoordinate\obj\Debug\3DCoordinate.exe
+c:\users\n.vankov\documents\visual studio 2012\Projects\02.DefiningClassesPart2\3DCoordinate\obj\Debug\3DCoordinate.pdb
